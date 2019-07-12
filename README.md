@@ -20,6 +20,7 @@ OPPO     安卓6    （支付宝版本10.1.55）<br>
 <hr>
 <br>
 测试效果如下：
+
 ![image](https://github.com/apppay/h5pay/blob/master/h5pay.gif)
 <br>
 <br>
