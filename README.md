@@ -1,10 +1,13 @@
-# H5支付，个人支付宝使用H5拉起支付
-
+H5支付，个人支付宝使用H5拉起支付
+-
+<br>
 <br>
 <br>
 <br>
 测试时间（2019-8-16）<br>
-H5支付测试手机运行情况（目前这些测试的机型都没问题，测试的支付宝也是最新版的）<br>
+-
+
+H5支付测试手机运行情况（目前这些测试的机型都没问题）<br>
 
 诺基亚 安卓9（支付宝版本10.1.59）<br>
 OPPO A7 安卓8（支付宝版本10.1.68）<br>
@@ -12,7 +15,7 @@ vivo 安卓8（支付宝版本10.1.68）<br>
 华为 安卓7（支付宝版本10.1.68）<br>
 OPPO 安卓6（支付宝版本10.1.55）<br>
 小米8SE 安卓（支付宝版本10.1.68）<br>
-索尼 安卓5（支付宝版本10.1.70）最新版本<br>
+索尼 安卓5（支付宝版本10.1.70）<br>
 索尼 安卓5（支付宝版本10.1.68）<br>
 苹果5 IOS10（支付宝版本10.1.60）<br>
 苹果5s IOS9（支付宝版本10.1.62）<br>
@@ -20,9 +23,10 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 苹果XS MAX IOS（支付宝版本10.1.68）<br>
 <br>
 <br>
-<hr>
 <br>
-<h5>测试效果如下：</h5>
+<br>
+测试效果如下：
+-
 
 ![image](https://github.com/apppay/h5pay/blob/master/h5pay.gif)
 <br>
@@ -39,7 +43,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 <br>
 <br>
 <br>
-<hr>
+<br>
 <br>
 <br>
 <br>
@@ -48,6 +52,8 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 <a href="https://github.com/apppay/pay">微信，支付宝，免签支付（APP辅助）</a><br>
 <a href="https://github.com/apppay/ManyUsers">微信，支付宝，免签支付，多账户轮训收款（APP辅助）</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
+<a href="https://github.com/apppay/h5toyh">H5支付，个人支付宝使用H5拉起转账到银行卡</a><br>
+<a href="https://github.com/apppay/h5toyhfx">支付宝扫码转账到银行卡（飞行模式）</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
 
