@@ -32,6 +32,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 -
 
 ![image](https://gitee.com/apppay/imgs/blob/master/h5pay/h5pay.gif) 
+![image](https://gitee.com/apppay/imgs/blob/master/h5pay/h5pay.gif) 
 <br>
 <br>
 <br>
