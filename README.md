@@ -5,7 +5,7 @@ H5支付，个人支付宝使用H5拉起支付
 <br>
 <br>
 
-测试时间（2019-9-5）
+测试记录
 -
 
 H5支付测试手机运行情况（目前这些测试的机型都没问题）<br>
@@ -17,7 +17,7 @@ vivo 安卓8（支付宝版本10.1.68）<br>
 华为 安卓7（支付宝版本10.1.68）<br>
 OPPO 安卓6（支付宝版本10.1.55）<br>
 小米8SE 安卓（支付宝版本10.1.68）<br>
-索尼 安卓5（支付宝版本10.1.72）（目前最新版）<br>
+索尼 安卓5（支付宝版本10.1.72）<br>
 索尼 安卓5（支付宝版本10.1.70）<br>
 索尼 安卓5（支付宝版本10.1.68）<br>
 苹果5 IOS10（支付宝版本10.1.60）<br>
@@ -31,7 +31,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 测试效果如下：
 -
 
-![image](http://www.apppay.xyz/h5pay.gif) 
+![image](http://www.apppay.xyz/index/githubimg/h5pay/h5pay.gif) 
 <br>
 <br>
 <br>
@@ -56,6 +56,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 <a href="https://github.com/apppay/dfpay">H5支付，淘宝代付</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/h5toyh">H5支付，个人支付宝使用H5拉起转账到银行卡</a><br>
+<a href="https://github.com/apppay/zztopayfx">支付宝转账到个人支付宝（飞行模式）</a><br>
 <a href="https://github.com/apppay/h5toyhfx">支付宝扫码转账到银行卡（飞行模式）</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
