@@ -36,7 +36,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br>
 <br>
 <br>
 <br>
-说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=862766409&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:862766409:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a><br>
+说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a><br>
 或者直接付费下载：http://apppay.xyz/pay_h5/
 <br>
 <br>
