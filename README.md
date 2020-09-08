@@ -25,10 +25,20 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 <br/>
 <br/>
 
-演示GIF
+【版本1】演示GIF
 --
 
 ![image](http://apppay.xyz.com/index/githubimg/h5pay/h5pay.gif)
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+
+【版本2】演示GIF
+--
+
+![image](https://i.loli.net/2020/09/08/ya7Ius3P9VeximT.gif)
 <br/>
 <br/>
 <hr/>
