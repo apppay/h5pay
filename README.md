@@ -28,7 +28,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 演示GIF
 --
 
-![image](http://apppay.xyz.com/index/githubimg/h5pay/h5pay.gif)
+![image](https://i.loli.net/2020/11/11/8KCdygJOuRTeYnU.gif)
 <br/>
 <br/>
 <hr/>
@@ -53,7 +53,6 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 --
 <a target="_blank" href="https://github.com/apppay/qdpay">支付宝小钱袋h5</a><br/>
 <a target="_blank" href="#">支付宝花呗代还</a><br/>
-<a target="_blank" href="https://github.com/apppay/dfpay">淘宝代付</a><br/>
 <a target="_blank" href="https://github.com/apppay/payai">支付宝普通红包</a><br/>
 <a target="_blank" href="#">支付宝口令红包</a><br/>
 <a target="_blank" href="https://github.com/apppay/copyzfb">支付宝复制账号转账</a><br/>
