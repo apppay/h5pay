@@ -45,7 +45,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 <br/>
 <br/>
 <br/>
-联系方式：<a target="_blank" href="http://apppay.xyz/qq.html">点击给我发消息</a>
+联系方式：<a target="_blank" href="https://pay.apppay.shop/qq.html">点击给我发消息</a>
 <br/>
 <br/>
 <br/>
