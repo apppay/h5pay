@@ -6,7 +6,7 @@
 H5支付测试手机运行情况（目前这些测试的机型都没问题）<br/>
 有个别支付宝账号是风险账号导致识别失败的情况<br/><br/>
 
-苹果7p IOS（支付宝版本10.2.18）<br/>
+苹果7p IOS（支付宝版本10.2.90）<br/>
 诺基亚 安卓9（支付宝版本10.1.59）<br/>
 OPPO A7 安卓8（支付宝版本10.1.68）<br/>
 vivo 安卓8（支付宝版本10.1.68）<br/>
@@ -45,7 +45,7 @@ OPPO 安卓6（支付宝版本10.1.55）<br/>
 <br/>
 <br/>
 <br/>
-联系方式：<a target="_blank" href="https://pay.apppay.shop/qq.html">点击给我发消息</a>
+联系方式：<a target="_blank" href="https://apppay.github.io/qq.html">点击给我发消息</a>
 <br/>
 <br/>
 <br/>
